@@ -1,4 +1,4 @@
-# Create-Chronicles-Bosses-and-Beyond-Ru
+# Create Chronicles: Bosses and Beyond-Ru
 
 Информация: Перевод квестов и прочего контента в сборке Create Chronicles: Bosses and Beyond. Ссылка на [сборку](https://www.curseforge.com/minecraft/modpacks/create-chronicles-bosses-and-beyond)
 
